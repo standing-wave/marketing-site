@@ -1,0 +1,16 @@
+{
+  "name": "marketing-site",
+  "version": "0.0.1",
+  "description": "Marketing Site for StandingWave",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ceedon",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-cheerio": "^0.6.3",
+    "gulp-cli": "^2.0.1",
+    "jest": "^23.6.0"
+  }
+}
