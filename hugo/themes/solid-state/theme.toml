@@ -5,17 +5,16 @@ name = "Solid State"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
 description = ""
-homepage = "http://example.com/"
+homepage = "https://standingwave.co/"
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "ceedon"
+  homepage = "https://ceedon.io"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Solid State"
+  homepage = "https://html5up.net"
