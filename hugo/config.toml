@@ -2,3 +2,12 @@ baseURL = "https://standingwave.co/"
 languageCode = "en-us"
 title = "Standing Wave"
 theme = "solid-state"
+
+summaryLength = 30
+
+[params]
+  address = "1234 Main St ✵ Atlanta, GA 30303 ✵ USA"
+	email = "contact@standingwave.co"
+	twitter = "standing-wave"
+	facebook = "standing-wave"
+	instagram = "standing-wave"
