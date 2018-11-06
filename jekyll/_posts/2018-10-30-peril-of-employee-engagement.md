@@ -3,7 +3,7 @@ layout: post
 author: "Alastair Steward"
 date: 2018-10-15
 title: The Peril of Employee Engagement
-image: "/images/pic02.jpg"
+image: "/images/chuttersnap-425090-unsplash.jpg"
 ---
 
 Now more than ever, employee engagement is the focus of people operations and HR initiatives as far as the eye can see. Organizations taking a human-centric approach to business have realized that helping people feel more engaged at work improves their employee experience, sense of fulfillment, and personal growth. Organizations with a more conventional “single bottom line” approach to business are realizing that increased employee engagement leads to higher productivity and [better business outcomes](https://www.cultureamp.com/resources/guides/foundation-guides/why-employee-engagement-matters.html).
