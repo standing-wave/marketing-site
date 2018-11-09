@@ -28,6 +28,7 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
+excerpt_separator: <!--more-->
 mathjax:            true
 sass:
   sass_dir:         _sass
