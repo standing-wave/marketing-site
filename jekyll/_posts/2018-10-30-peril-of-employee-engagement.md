@@ -1,6 +1,7 @@
 ---
 layout: post
 author: "Alastair Steward"
+author-twitter: "AlastairSteward"
 date: 2018-10-15
 title: The Peril of Employee Engagement
 image: "/images/chuttersnap-425090-unsplash.jpg"
